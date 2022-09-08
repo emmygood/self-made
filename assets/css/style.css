@@ -6,6 +6,11 @@
     border: 0;
 }
 
+* {
+    background-color: #4f4b4b;
+     
+}
+
 body {
     font-family: comfortaa, sans-serif;
     font-weight: 300; 
