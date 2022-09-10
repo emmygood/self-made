@@ -184,13 +184,15 @@ hr {
     font-size: 200%;
 }
 
-#image-container {
-    width: 300px;
+
+#center-image {
+    
+    width: 400px;
     height: 400px;
-    padding: 30px;
-    border-style: solid;
-    border-color: #ffff00;
-    border-width: 10px;
-    margin: 0 auto;
+    padding: 30px 10px 20px;
+    margin: 0 auto; 
 }
+
+
+
 
